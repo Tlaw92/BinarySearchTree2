@@ -1,0 +1,7 @@
+C:\Users\TLaw\Documents\DCC2\Week5\BinarySearchTreeRound2\BinarySearchTreeRound2\bin\Debug\BinarySearchTreeRound2.exe.config
+C:\Users\TLaw\Documents\DCC2\Week5\BinarySearchTreeRound2\BinarySearchTreeRound2\bin\Debug\BinarySearchTreeRound2.exe
+C:\Users\TLaw\Documents\DCC2\Week5\BinarySearchTreeRound2\BinarySearchTreeRound2\bin\Debug\BinarySearchTreeRound2.pdb
+C:\Users\TLaw\Documents\DCC2\Week5\BinarySearchTreeRound2\BinarySearchTreeRound2\obj\Debug\BinarySearchTreeRound2.csprojAssemblyReference.cache
+C:\Users\TLaw\Documents\DCC2\Week5\BinarySearchTreeRound2\BinarySearchTreeRound2\obj\Debug\BinarySearchTreeRound2.csproj.CoreCompileInputs.cache
+C:\Users\TLaw\Documents\DCC2\Week5\BinarySearchTreeRound2\BinarySearchTreeRound2\obj\Debug\BinarySearchTreeRound2.exe
+C:\Users\TLaw\Documents\DCC2\Week5\BinarySearchTreeRound2\BinarySearchTreeRound2\obj\Debug\BinarySearchTreeRound2.pdb
